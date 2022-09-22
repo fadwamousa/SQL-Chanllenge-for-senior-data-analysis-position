@@ -1,5 +1,5 @@
 # SQL-Chanllenge-for-senior-data-analysis-position
-### write a sql to find out callers whose first and last call was to the same person on a given day.
+#### write a sql to find out callers whose first and last call was to the same person on a given day.
 
 
 phonelog table :
